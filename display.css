@@ -1,0 +1,20 @@
+.block{
+    display: block;
+    background-color: aquamarine;
+    padding: 10px;
+    margin: 20px;
+}
+
+.inline{
+    display: inline;
+    background-color: navajowhite;
+    padding: 10px;
+    margin: 20px;
+}
+.inline-block{
+    display: inline-block;
+    background-color: gray;
+    padding: 10px;
+    margin: 20px;
+    width: 100px;
+}

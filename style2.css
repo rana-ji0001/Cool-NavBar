@@ -1,0 +1,25 @@
+#headline{
+    color: aqua;
+    background-color: blueviolet;
+}
+.div2{
+    height: 90px;
+    width: 90px;
+    background-color: aquamarine;
+    background-position: top right;
+    
+}
+h1{
+    font-size: 1em;
+    padding: 1px;
+    color: black;
+    
+}
+.gift{
+    background-color: lightblue;
+    padding: 20px;
+    margin: 50px;
+    border: solid blue 2px;
+    width: 900px;
+    max-width: 500px;
+}
